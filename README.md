@@ -86,3 +86,117 @@ My interests include:
 > "I enjoy transforming innovative ideas into impactful AI-powered products."
 
 ---
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css,mysql" />
+</p>
+
+---
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap" />
+</p>
+
+---
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<p>
+
+NumPy • Pandas • Scikit-Learn • Keras • OpenAI API • Prompt Engineering
+
+</p>
+
+---
+
+### ☁️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
+</p>
+
+</div>
+
+---
+
+# 💼 Experience
+
+## 🚀 Founding Member — ASOOBI
+
+📅 Jan 2026 – Present
+
+- 🚀 Building an AI-first startup
+- 💡 Product Strategy
+- 🤝 Business Development
+- 🌐 Technology & Branding
+
+---
+
+## 💼 Data Engineering Intern — HERE Technologies
+
+📅 May 2024 – July 2024
+
+- 🐍 Built Python Web Crawlers
+- 🌍 Automated Geospatial Data Collection
+- ⚡ Data Validation Pipelines
+- 📊 Improved Mapping Data Quality
+
+---
+
+## 🤖 AI/ML Intern — AICTE | Shell | Edunet Foundation
+
+📅 April 2025
+
+- Built Animal Recognition System
+- TensorFlow + MobileNetV2
+- Achieved **86% Validation Accuracy**
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Achievement | Year |
+|---------------|------|
+| 🏆 Smart India Hackathon Grand Finalist | 2024 |
+| 🥇 Tech Expo Winner | 2025 |
+| 🥈 Prototype Development Competition | 2025 |
+| 🥈 Tech Spectrum Innovation Challenge | 2025 |
+| 🌟 GirlScript Summer of Code Contributor | 2025–26 |
+| 💼 HERE Technologies Internship | 2024 |
+| 🤖 AICTE AI Internship | 2025 |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+- 🏅 Cisco — Introduction to Cybersecurity
+- 🏅 IBM — Prompt Engineering
+- 🏅 HackerRank — SQL Advanced
+- 🏅 Infosys Springboard — OpenAI GPT Models
+- 🏅 Deloitte Australia Data Analytics Simulation
+- 🏅 NPTEL — Object Oriented Programming
+
+---
