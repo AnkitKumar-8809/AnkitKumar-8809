@@ -52,9 +52,8 @@ My interests include:
 
 ## 🚀 Currently Working On
 
-- 🛒 Walmart Sensei
-- 🎓 SkillChain
 - 🏫 Campus Catalyst
+- 🎓 SkillChain
 
 ---
 
@@ -81,96 +80,7 @@ My interests include:
 
 ---
 
-## ⚡ Fun Fact
 
-> "I enjoy transforming innovative ideas into impactful AI-powered products."
-
----
-# 🛠️ Tech Stack
-
-<div align="center">
-
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,html,css,mysql" />
-</p>
-
----
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap" />
-</p>
-
----
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
----
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-<p>
-
-NumPy • Pandas • Scikit-Learn • Keras • OpenAI API • Prompt Engineering
-
-</p>
-
----
-
-### ☁️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
-</p>
-
-</div>
-
----
-
-# 💼 Experience
-
-## 🚀 Founding Member — ASOOBI
-
-📅 Jan 2026 – Present
-
-- 🚀 Building an AI-first startup
-- 💡 Product Strategy
-- 🤝 Business Development
-- 🌐 Technology & Branding
-
----
-
-## 💼 Data Engineering Intern — HERE Technologies
-
-📅 May 2024 – July 2024
-
-- 🐍 Built Python Web Crawlers
-- 🌍 Automated Geospatial Data Collection
-- ⚡ Data Validation Pipelines
-- 📊 Improved Mapping Data Quality
-
----
-
-## 🤖 AI/ML Intern — AICTE | Shell | Edunet Foundation
-
-📅 April 2025
-
-- Built Animal Recognition System
-- TensorFlow + MobileNetV2
-- Achieved **86% Validation Accuracy**
-
----
 
 # 🏆 Achievements
 
@@ -182,7 +92,7 @@ NumPy • Pandas • Scikit-Learn • Keras • OpenAI API • Prompt Engineerin
 | 🥇 Tech Expo Winner | 2025 |
 | 🥈 Prototype Development Competition | 2025 |
 | 🥈 Tech Spectrum Innovation Challenge | 2025 |
-| 🌟 GirlScript Summer of Code Contributor | 2025–26 |
+| 🌟 GirlScript Summer of Code Contributor | 2025,26 |
 | 💼 HERE Technologies Internship | 2024 |
 | 🤖 AICTE AI Internship | 2025 |
 
@@ -212,15 +122,15 @@ NumPy • Pandas • Scikit-Learn • Keras • OpenAI API • Prompt Engineerin
 
 <td width="50%">
 
-### 🛒 Walmart Sensei
+### 🏫 Campus Catalyst
 
-AI-powered shopping assistant that delivers personalized recommendations, nutrition insights, and an intelligent shopping experience.
+A campus management platform for events, resources, clubs, communities, and announcements.
 
 **Tech Stack**
 
-`React` `Node.js` `AI` `Tailwind CSS`
+`Node.js` `Express` `MongoDB`
 
-<a href="YOUR_WALMART_REPO">
+<a href="https://github.com/AnkitKumar-8809/Campus_Catalyst">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 </a>
 
@@ -236,7 +146,7 @@ A decentralized AI-powered learning platform using blockchain for secure skill v
 
 `Node.js` `MongoDB` `OpenAI API` `Web3`
 
-<a href="YOUR_SKILLCHAIN_REPO">
+<a href="https://github.com/AnkitKumar-8809/SkillChain">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 </a>
 
@@ -244,23 +154,7 @@ A decentralized AI-powered learning platform using blockchain for secure skill v
 
 </tr>
 
-<tr>
 
-<td width="50%">
-
-### 🏫 Campus Catalyst
-
-A campus management platform for events, resources, clubs, communities, and announcements.
-
-**Tech Stack**
-
-`Node.js` `Express` `MongoDB`
-
-<a href="YOUR_CAMPUS_REPO">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
-</a>
-
-</td>
 
 <td width="50%">
 
@@ -272,7 +166,7 @@ Deep Learning application that recognizes multiple animal species using TensorFl
 
 `Python` `TensorFlow` `OpenCV`
 
-<a href="YOUR_ANIMAL_REPO">
+<a href="http://github.com/AnkitKumar-8809/Animal_Classification">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 </a>
 
@@ -292,6 +186,10 @@ Blockchain-powered NFT ticketing and loyalty rewards platform.
 
 `React` `Firebase` `Polygon`
 
+<a href="https://github.com/AnkitKumar-8809/MintMoments">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
 </td>
 
 <td width="50%">
@@ -304,6 +202,10 @@ Desktop voting software with authentication, live vote counting, and admin dashb
 
 `Java` `MySQL`
 
+<a href="https://github.com/AnkitKumar-8809/Java-Voting-System">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
 </td>
 
 </tr>
@@ -314,35 +216,9 @@ Desktop voting software with authentication, live vote counting, and admin dashb
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnkitKumar-8809&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitKumar-8809&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKumar-8809&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnkitKumar-8809&theme=tokyonight&column=4&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-[![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnkitKumar-8809&theme=tokyo-night)](https://github.com/AnkitKumar-8809)
-
----
 
 # 📬 Contact Me
 
