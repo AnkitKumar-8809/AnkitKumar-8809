@@ -53,6 +53,7 @@ My interests include:
 ## 🚀 Currently Working On
 
 - 🏫 Campus Catalyst
+- 🌟 Tarang
 - 🎓 SkillChain
 
 ---
