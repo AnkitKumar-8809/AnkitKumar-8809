@@ -30,7 +30,7 @@
 
 # 💫 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+
 
 🎓 **B.Tech Computer Science & Engineering (AI & ML)**  
 🏫 Amity University Jharkhand
@@ -121,11 +121,31 @@ My interests include:
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
+
+### 🌟 Tarang CRM
+
+AI-native multi-tenant CRM featuring a context-aware notification center and Gemini-powered assistant. Built with secure tenant isolation, real-time notifications, desktop alerts, and an intelligent AI workspace.
+
+**Tech Stack**
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `Gemini AI`
+
+<a href="https://tarang1.netlify.app/">
+<img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AnkitKumar-8809/Tarang">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🏫 Campus Catalyst
 
-A campus management platform for events, resources, clubs, communities, and announcements.
+A campus management platform for events, resources, clubs, communities, announcements, and student collaboration.
 
 **Tech Stack**
 
@@ -137,11 +157,31 @@ A campus management platform for events, resources, clubs, communities, and anno
 
 </td>
 
-<td width="50%">
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎟 MintMoments
+
+Blockchain-powered NFT ticketing and loyalty rewards platform with dynamic NFTs and Web3 integration.
+
+**Tech Stack**
+
+`React` `Firebase` `Polygon`
+
+<a href="https://github.com/AnkitKumar-8809/MintMoments">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎓 SkillChain
 
-A decentralized AI-powered learning platform using blockchain for secure skill verification and personalized learning.
+AI-powered decentralized learning platform using blockchain for secure skill verification and personalized learning.
 
 **Tech Stack**
 
@@ -155,55 +195,35 @@ A decentralized AI-powered learning platform using blockchain for secure skill v
 
 </tr>
 
+<tr>
 
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🗳 Java Voting System
+
+Desktop voting software featuring voter authentication, live vote counting, admin dashboard, and MySQL integration.
+
+**Tech Stack**
+
+`Java` `Swing` `MySQL`
+
+<a href="https://github.com/AnkitKumar-8809/Java-Voting-System">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🤖 Animal Recognition
 
-Deep Learning application that recognizes multiple animal species using TensorFlow and MobileNetV2.
+Deep Learning application capable of classifying multiple animal species using TensorFlow and MobileNetV2.
 
 **Tech Stack**
 
 `Python` `TensorFlow` `OpenCV`
 
-<a href="http://github.com/AnkitKumar-8809/Animal_Classification">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🎟 MintMoments
-
-Blockchain-powered NFT ticketing and loyalty rewards platform.
-
-**Tech Stack**
-
-`React` `Firebase` `Polygon`
-
-<a href="https://github.com/AnkitKumar-8809/MintMoments">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🗳 Java Voting System
-
-Desktop voting software with authentication, live vote counting, and admin dashboard.
-
-**Tech Stack**
-
-`Java` `MySQL`
-
-<a href="https://github.com/AnkitKumar-8809/Java-Voting-System">
+<a href="https://github.com/AnkitKumar-8809/Animal_Classification">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 </a>
 
@@ -214,7 +234,6 @@ Desktop voting software with authentication, live vote counting, and admin dashb
 </table>
 
 </div>
-
 ---
 
 
