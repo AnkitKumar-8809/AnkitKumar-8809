@@ -135,7 +135,7 @@ AI-native multi-tenant CRM featuring a context-aware notification center and Gem
 <img src="https://img.shields.io/badge/Live_Demo-22C55E?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
-<a href="https://github.com/AnkitKumar-8809/Tarang">
+<a href="https://github.com/AnkitKumar-8809/DigiTace-Tech">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 </a>
 
